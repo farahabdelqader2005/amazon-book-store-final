@@ -105,11 +105,6 @@
                 </div>
 
                 <div class="form-group">
-                    <label for="publicationDate">Publication Date</label>
-                    <input type="date" id="publicationDate" name="bookDetails.publicationDate" class="form-control">
-                </div>
-
-                <div class="form-group">
                     <label for="publisher">Publisher</label>
                     <form:input path="bookDetails.publisher" id="publisher" cssClass="form-control" placeholder="e.g. Prentice Hall"/>
                 </div>
