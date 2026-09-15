@@ -197,10 +197,4 @@ Hibernate is configured with `hibernate.hbm2ddl.auto=update`, so the mapped tabl
 /authors/edit?id={id}
 ```
 
-## Screenshots
 
-Screenshots of the Books, Categories, Authors, forms and Book Details pages can be added here before the final submission.
-
-## Git Workflow
-
-The repository uses meaningful commits and separate feature branches so the project can be reviewed feature by feature before merging into `main`.
